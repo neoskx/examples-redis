@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "compounds": [],
+  "configurations": [
+    {
+      "type": "node",
+      "name": "Debug API",
+      "request": "attach",
+      "port": 9229
+    }
+  ]
+}
